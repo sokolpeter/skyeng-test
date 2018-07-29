@@ -1,0 +1,10 @@
+*.bak
+*.tmp
+*~
+/.settings/
+/.buildpath
+/.project
+/.idea/
+test.php
+php_errors.log
+skyeng.pdf
